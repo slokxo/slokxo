@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/slokxo/Config/assets/121277761/7607e47a-291f-46e1-91bf-e47e3775295d" width=30%>
 <br>
 
-- :school: I am a student in Ireland, aspiring to be a Software Engineer.
+- :school: I am a student in Ireland, aspiring to be a better.. developer.
 - :wave: Most people know me by `slokx` or `slokxoxo`, which is my [Minecraft](https://minecraft.net/) username.
 - :computer: I am a beginner in `Java`.
 - :student: I’m currently learning `JDA` and `Spigot API`.
