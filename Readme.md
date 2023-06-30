@@ -1,5 +1,3 @@
-## <img src = "https://github.com/slokxo/Config/assets/121277761/43bb10c3-2012-406f-8947-9f426896b9e9" width = 6.5%> About me
-
 <img align="right" src="https://github.com/slokxo/Config/assets/121277761/7607e47a-291f-46e1-91bf-e47e3775295d" width=30%>
 
 <br><br>
