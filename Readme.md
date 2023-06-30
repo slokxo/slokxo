@@ -1,5 +1,5 @@
 - :school: I am a student in Ireland, aspiring to be a better.. developer.
-- :wave: Most people know me by `slokx` or `slokxoxo`, which is my [Minecraft](https://minecraft.net/) username.
+- :wave: Most people know me by `slokx` or `slokxoxo`, which is my Minecraft username.
 - :computer: I am a beginner in `Java`.
 - :student: I’m currently learning `JDA` and `Spigot API`.
 - :envelope: You can reach me on discord - `@slokx`
