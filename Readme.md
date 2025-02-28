@@ -1,7 +1,1 @@
-- :school: I am a student in Ireland, aspiring to be a better.. developer.
-- :wave: Most people know me by `slokx` or `slokxoxo`, which is my Minecraft username.
-- :computer: I am a beginner in `Java` & `HTML`.
-- :student: I’m currently learning `JDA` and `Spigot API`.
-- :envelope: You can reach me on discord - `@slokx`
-- :crystal_ball: I am an administrator and developer at [Avatarverse](https://github.com/Avatarverse)
-- :nerd_face: I am always seeking to learn new stuff, so feel free to go into my repositories and give me tips..
+i'm so unserious!
